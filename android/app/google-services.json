@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200402452854",
+    "project_id": "cashic-3778a",
+    "storage_bucket": "cashic-3778a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200402452854:android:6e8f77de47e5ad5381ba57",
+        "android_client_info": {
+          "package_name": "com.gee.cashic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200402452854-thmj2ch5f1a6i8991oscg8s1jisqvgiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8crf3iIs8H1sIElcuKt6HgRygfGDRTl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200402452854-thmj2ch5f1a6i8991oscg8s1jisqvgiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

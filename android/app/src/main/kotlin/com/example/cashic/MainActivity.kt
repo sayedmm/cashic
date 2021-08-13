@@ -1,0 +1,6 @@
+package com.gee.cashic
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
